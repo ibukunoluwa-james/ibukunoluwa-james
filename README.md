@@ -10,14 +10,14 @@ I work primarily across the **TypeScript stack**: Next.js on the frontend, NestJ
 
 **[Revo](https://ibukunoluwa-james.vercel.app)** — a subnational revenue intelligence platform digitizing Nigeria's state-level revenue collection chain. USSD-first agent interface, anomaly detection on collection patterns, and role-based dashboards for State Revenue Services. Designed from day one to be SFTAS-aligned and NDPA-compliant.
 
-#### 🛠️ Stack I reach for
+#### Stack I reach for
 
 - **Frontend:** Next.js, React, TypeScript, Tailwind
-- **Backend:** NestJS, Express, Node.js
+- **Backend:** NestJS, Express, Node.js, Rust
 - **Data:** PostgreSQL, Prisma
 - **Other:** REST, system design, technical writing (PRDs, architecture specs)
 
-#### 📫 Get in touch
+#### Get in touch
 
 - Portfolio — [ibukunoluwa-james.vercel.app](https://ibukunoluwa-james.vercel.app)
 - LinkedIn — [ibukunoluwa-james](https://www.linkedin.com/in/ibukunoluwa-james-0b98b0319/)
