@@ -8,7 +8,7 @@ I work primarily across the **TypeScript stack**: Next.js on the frontend, NestJ
 
 #### 🔭 Currently building
 
-**[Revo](https://ibukunoluwa-james.vercel.app)** — a subnational revenue intelligence platform digitizing Nigeria's state-level revenue collection chain. USSD-first agent interface, anomaly detection on collection patterns, and role-based dashboards for State Revenue Services. Designed from day one to be SFTAS-aligned and NDPA-compliant.
+**Revo** — a subnational revenue intelligence platform digitizing Nigeria's state-level revenue collection chain. USSD-first agent interface, anomaly detection on collection patterns, and role-based dashboards for State Revenue Services. Designed from day one to be SFTAS-aligned and NDPA-compliant.
 
 #### Stack I reach for
 
